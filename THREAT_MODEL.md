@@ -9,3 +9,5 @@ graph TD
     
     %% INTENTO DE SABOTAJE / VULNERABILIDAD INTENCIONAL
     A -->|Acceso Directo Sin Autenticación| C
+Usuario - de Datos (Acceso directo sin API) 
+Usuario - de Datos (Acceso directo sin API) 
